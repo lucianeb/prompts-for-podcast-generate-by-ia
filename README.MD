@@ -7,9 +7,6 @@
 
 <p align="center">
        [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2)
->
-</a>
-
 </p>
 
 <p align="center">
