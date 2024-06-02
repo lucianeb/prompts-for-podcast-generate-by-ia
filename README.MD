@@ -22,7 +22,7 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
     <audio src="output/pod_saude_editado.MP3" controls title="Podcast editado"></audio>
 </div>
 
-[Ouça o podcast editado](output/podcast_editado.MP3)
+[Ouça o podcast editado](output/pod_saude_editado.MP3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
