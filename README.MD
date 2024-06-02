@@ -7,7 +7,7 @@
 
  
 
-    ## preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
+    
 
 # Projeto Podcast Gerado por I.A.s
 
@@ -15,9 +15,14 @@
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados.
 
+## preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
+- [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2/)
+
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
 </div>
+
+[Ouça o podcast editado](output/podcast_editado.MP3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -25,7 +30,6 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
-- [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2/)
 
 ## ✨ Como foi feito ?
 
