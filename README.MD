@@ -9,11 +9,6 @@
 
     ## preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
 
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
-
 # Projeto Podcast Gerado por I.A.s
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante a aula Criando Podcasts com IA Generativas do BootCamp IA para DEVs
