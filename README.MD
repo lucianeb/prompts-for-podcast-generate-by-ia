@@ -8,14 +8,14 @@
 <p align="center">
 <a href="https://dio.me/">
     <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
+        src="https://https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2" 
+        alt="Diagnóstico Digital: Inovações de IA na Saúde">
 </a>
 
 </p>
 
 <p align="center">
-    preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
+    ## preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
 </p>
 
 <div align="center">
