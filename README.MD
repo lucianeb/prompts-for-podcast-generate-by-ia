@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-        src="https://https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2" 
-        alt="Diagnóstico Digital: Inovações de IA na Saúde">
+       [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2)
+>
 </a>
 
 </p>
@@ -21,8 +21,6 @@
 </div>
 
 # Projeto Podcast Gerado por I.A.s
-
-- [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2)
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante a aula Criando Podcasts com IA Generativas do BootCamp IA para DEVs
 
