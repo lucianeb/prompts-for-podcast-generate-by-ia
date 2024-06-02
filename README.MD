@@ -6,8 +6,6 @@
 </p>
 
 <p align="center">
-<a href="https://dio.me/">
-    <img 
         src="https://https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2" 
         alt="Diagnóstico Digital: Inovações de IA na Saúde">
 </a>
