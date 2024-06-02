@@ -6,12 +6,11 @@
 </p>
 
 <p align="center">
-       [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2)
+       [Link para o Pod no Notion](https://www.notion.so/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2/)
 </p>
 
-<p align="center">
     ## preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
-</p>
+
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
