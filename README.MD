@@ -5,29 +5,24 @@
 />
 </p>
 
-<p align="center">
-<a href="https://dio.me/">
-    <img 
-        src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
-        alt="DIO - Code The Future">
-</a>
+ 
 
-</p>
-
-<p align="center">
-    preview do podcast
-</p>
-
-<div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
-</div>
+    
 
 # Projeto Podcast Gerado por I.A.s
-
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante a aula Criando Podcasts com IA Generativas do BootCamp IA para DEVs
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais elaborados.
+
+## preview do podcast Diagnóstico Digital: Inovações de IA na Saúde
+- [Link para o Pod no Notion](https://golden-molybdenum-689.notion.site/Diagn-stico-Digital-Inova-es-de-IA-na-Sa-de-5d66f7dc2c1948588d62b546660a30e2)
+
+<div align="center">
+    <audio src="output/pod_saude_editado.MP3" controls title="Podcast editado"></audio>
+</div>
+
+[Ouça o podcast editado](output/pod_saude_editado.MP3)
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -45,6 +40,5 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 
 
 
----
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+
